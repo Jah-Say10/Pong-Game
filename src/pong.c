@@ -5,7 +5,7 @@
     Auteur: Omar DIASSE
 
     Debut: 12/06/2021
-    Fin: 
+    Fin:   12/12/2021
 
     compilation : gcc src/*.c -o bin/pong -I include -L lib -lmingw32 -lSDL2main -lSDL2 -lSDL2_image
 
